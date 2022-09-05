@@ -1,7 +1,10 @@
 Hi, I’m @SharkmanZA
+
 I currently study at @University of Pretoria 
+
 Current Degree: BsC Information and Knowledges Systems. 
 
+https://www.up.ac.za/yearbooks/2022/EBIT-faculty/UD-programmes/view/12133213#02
 
 How to reach me -> jake.mileham@gmail.com
 
