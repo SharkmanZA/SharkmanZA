@@ -1,5 +1,8 @@
 Hi, I’m @SharkmanZA
-I currently study at @University of Pretoria as a 2nd year in a BsC Information and Knowledges Systems.
+I currently study at @University of Pretoria 
+Current Degree: BsC Information and Knowledges Systems. 
+
+
 How to reach me -> jake.mileham@gmail.com
 
 <!---
