@@ -2,7 +2,7 @@ Hi, I’m @SharkmanZA
 
 Im currently studying at @University of Pretoria - 2nd Year
 
-Current Degree: BsC Information and Knowledges Systems. 
+Current Degree: BsC Information and Knowledge Systems. 
 
 https://www.up.ac.za/yearbooks/2022/EBIT-faculty/UD-programmes/view/12133213#02
 
