@@ -1,6 +1,6 @@
 Hi, I’m @SharkmanZA
 
-I currently study at @University of Pretoria 
+I currently study at @University of Pretoria - 2nd Year
 
 Current Degree: BsC Information and Knowledges Systems. 
 
