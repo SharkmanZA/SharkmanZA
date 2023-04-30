@@ -29,9 +29,6 @@ Reach me at: jake.mileham@gmail.com
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SharkmanZA&show_icons=true&locale=en" alt="jakemileham" /></p>
 
 ---
-<!---
-SharkmanZA/SharkmanZA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can
 
 ## Statistics
 <a href="https://github.com/SharkmanZA?tab=followers">
