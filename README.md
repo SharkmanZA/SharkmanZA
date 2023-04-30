@@ -9,7 +9,7 @@ Occupation: Student
 - 3rd Year BsC Information and Knowledge Systems.
 - https://www.up.ac.za/yearbooks/2022/EBIT-faculty/UD-programmes/view/12133213#02
 
-Employer: N/A
+Employer: Currently Unemployed
 
 Reach me at: jake.mileham@gmail.com
 
