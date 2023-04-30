@@ -23,7 +23,12 @@ Reach me at: jake.mileham@gmail.com
 [![My Skills](https://skills.thijs.gg/icons?i=java,py,cpp,nextjs,nodejs,mysql,git,vim,docker)](https://skills.thijs.gg)
 
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,ts,angular,php,jquery,tailwind,svelte)](https://skills.thijs.gg)
+
+---
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SharkmanZA&show_icons=true&locale=en" alt="jakemileham" /></p>
+
+---
 <!---
 SharkmanZA/SharkmanZA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+You can
