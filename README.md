@@ -32,3 +32,8 @@ Reach me at: jake.mileham@gmail.com
 <!---
 SharkmanZA/SharkmanZA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can
+
+## Statistics
+<a href="https://github.com/SharkmanZA?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/SharkmanZA?color=green&logo=github">
+</a>
