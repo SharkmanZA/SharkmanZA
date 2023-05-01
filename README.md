@@ -27,7 +27,6 @@ Reach me at: jake.mileham@gmail.com
 ---
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=SharkmanZA&show_icons=true&locale=en" alt="jakemileham" /></p>
-
 ---
 
 ## Statistics
