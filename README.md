@@ -1,8 +1,10 @@
-Name: Jake Mileham
+Im currently not emplyed and studying as a student at the University of Pretoria.
 
-Occupation: Student
-- University of Pretoria
-- 3rd Year BsC Information and Knowledge Systems.
+Course:
+- BsC Information and Knowledge Systems.
+Current Year:
+- 3rd Year
+Course Information:
 - https://www.up.ac.za/yearbooks/2022/EBIT-faculty/UD-programmes/view/12133213#02
 
 
