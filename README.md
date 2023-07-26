@@ -5,9 +5,6 @@ Occupation: Student
 - 3rd Year BsC Information and Knowledge Systems.
 - https://www.up.ac.za/yearbooks/2022/EBIT-faculty/UD-programmes/view/12133213#02
 
-Employer: Currently Unemployed
-
-Reach me at: jake.mileham@gmail.com
 
 ## My Interests
 - From high school where we started with [scratch](https://scratch.mit.edu/about), Ive always been interested in the art of writing code as it amazes me everyday to the countless solutions that can be created.
