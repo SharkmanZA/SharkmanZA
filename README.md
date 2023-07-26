@@ -1,7 +1,3 @@
-
-# My Github Profile
-## About Me
-
 Name: Jake Mileham
 
 Occupation: Student
