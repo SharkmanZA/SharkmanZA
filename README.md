@@ -1,14 +1,14 @@
-Im currently not emplyed and studying as a student at the University of Pretoria.
+Im currently not employed and studying as a student at the University of Pretoria.
 
-Course:
+My course:
 
 - BsC Information and Knowledge Systems:
 
-Current Year:
+My current Year:
 
 - 3rd Year
 
-Course Information:
+My course Information:
 
 - https://www.up.ac.za/yearbooks/2022/EBIT-faculty/UD-programmes/view/12133213#02
 
