@@ -1,4 +1,4 @@
-Im currently not employed and studying as a student at the University of Pretoria.
+Im currently studying as a student at the University of Pretoria.
 
 My course:
 
