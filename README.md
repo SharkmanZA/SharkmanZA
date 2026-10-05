@@ -1,4 +1,4 @@
-Education
+Education:
 - University of Pretoria: Information and Knowledge Systems
 - University of Pretoria: BScHons Computer Science
 
